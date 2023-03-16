@@ -4,7 +4,7 @@ import Button from './Components/button';
 function App() {
   return (
     <div className="App">
-      <h1 className="text-4xl font-bold underline">
+      <h1 className="text-4xl font-bold">
         Hello world!
       </h1>
       <Button />

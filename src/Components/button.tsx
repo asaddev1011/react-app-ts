@@ -1,7 +1,7 @@
 
 const Button = () => {
     return (
-        <input type="button" value="Click Me!" />
+        <input className="bg-black text-white" type="button" value="Click Me!" />
     );
 }
 
